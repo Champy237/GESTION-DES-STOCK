@@ -1,0 +1,2 @@
+# GESTION-DES-STOCK
+GESTION DES BOUTIQUE en lanuage python 
